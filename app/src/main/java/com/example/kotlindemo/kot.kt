@@ -7,6 +7,6 @@ package com.example.kotlindemo
 
             var ln = name?.length
 
-
+        println("name : ${ln}")
 
         }
