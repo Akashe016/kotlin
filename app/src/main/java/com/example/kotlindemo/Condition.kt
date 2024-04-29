@@ -13,6 +13,7 @@ fun main() {
     val nm = when(day) {
         0 -> "Mon"
         1 -> "Tue"
+        //in 2-> "Odd"
         else -> "Sun"
     }
     println(nm)
